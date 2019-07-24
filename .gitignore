@@ -1,0 +1,11 @@
+./ipynb/*
+./ipynb_checkpoints/*
+analysis/*
+thesis/*
+plots/*
+Untitled*.py
+*.o
+*.nc
+*.pdf
+*.png
+*.jpg
