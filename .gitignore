@@ -1,7 +1,12 @@
 .ipynb
 .ipynb_checkpoints/*
+EucFace/*.gif
+EucFace/*.pdf
+EucFace/*.png
+EucFace/*.jpg
+EucFace/*.nc
+EucFace/*.o
 analysis/*
-thesis/*
 plots/*
 Untitled*.py
 *.o
